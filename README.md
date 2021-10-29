@@ -55,7 +55,7 @@ camelNamingConvention (first letter of every work is uppercase except first word
     com.package is the concept that group the classes.    
 4 go created project directory [projectName>src>packageName>Main.java] 
 
-
+ 
 If you want create class by scratch      
 [r-click] on 'src' folder > [select] 'new' > [select] 'Java Class' > [write] "main"   
 
