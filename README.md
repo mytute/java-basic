@@ -24,12 +24,12 @@ if no return we are put 'void' keyword
 
 * main funtion
 
-every program of the java have at least one function call 'main'.
+every program of the java have at least one function call 'main'.    
 'main' function is the entry point of our program to execute it.
 
 * class
 
-class is a container for related functions.
+class is a container for related functions.    
 every java program should have at least one class call main.
 
 class Main{
@@ -48,12 +48,16 @@ PascalNamingConvention (first letter of every work is uppercase )  >for Classes
 camelNamingConvention (first letter of every work is uppercase except first word) >for methods.
 
 ## start first java program using IntelJ IDEA
-1 open IntelJ and click 'Create New Project'
-2 new open window select java && select project SDK && click next.
-3 new open window select "Command Line App" && click next.
-3 new open window give the Project name && click next.
-    com.package is the concept that group the classes.
-4 go created project directory [projectName>src>packageName>Main.java]
+1 open IntelJ and click 'Create New Project'    
+2 new open window select java && select project SDK && click next.    
+3 new open window select "Command Line App" && click next.    
+3 new open window give the Project name && click next.    
+    com.package is the concept that group the classes.    
+4 go created project directory [projectName>src>packageName>Main.java] 
+
+
+If you want create class by scratch      
+[r-click] on 'src' folder > [select] 'new' > [select] 'Java Class' > [write] "main"   
 
 
 ```java
